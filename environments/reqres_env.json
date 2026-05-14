@@ -1,0 +1,28 @@
+{
+	"id": "82dd9e11-80c2-479e-970f-992425c0cc65",
+	"name": "Reqres ENV",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://reqres.in/api",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "user_id",
+			"value": "2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "your_token",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-14T17:26:00.979Z",
+	"_postman_exported_using": "Postman/12.10.5-260514-0232"
+}
