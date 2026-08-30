@@ -107,6 +107,4 @@ api-testing-postman/
 ## 👤 Author
 
 **[roman m.]**  
-Junior QA Engineer  
-📧 2698092@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/#)
+Junior QA Engineer
